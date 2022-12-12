@@ -6,4 +6,6 @@ NETLIFY LINKS:
 
 3. Product sale countdown: https://fabulous-frangollo-ac244f.netlify.app
 
+4. Digital clock: https://jazzy-bublanina-ae7caf.netlify.app
+
 Day 1:  https://september-1.netlify.app/
