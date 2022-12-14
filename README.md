@@ -8,4 +8,7 @@ NETLIFY LINKS:
 
 4. Digital clock: https://jazzy-bublanina-ae7caf.netlify.app
 
-Day 1:  https://september-1.netlify.app/
+5. Restcountries api flags using fetch(): https://elaborate-sable-6ed9a1.netlify.app
+ 
+
+CSS 1:  https://september-1.netlify.app/
