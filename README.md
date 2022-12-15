@@ -11,6 +11,6 @@ NETLIFY LINKS:
 5. Restcountries api flags using fetch(): https://elaborate-sable-6ed9a1.netlify.app
 
 6. Profile pic api using fetch(): ---> https://sweet-beijinho-d66c77.netlify.app 
-                                  ---> https://venerable-douhua-5f57e2.netlify.app
+                                : ---> https://venerable-douhua-5f57e2.netlify.app
 
 CSS 1:  https://september-1.netlify.app/
