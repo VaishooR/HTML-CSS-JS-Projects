@@ -1,0 +1,109 @@
+
+.layout{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    background-color: #dfe4ea;
+}
+
+
+
+
+/* -------adduser section------- */
+.adduser{
+    display:flex;
+    gap:30px;
+    margin-bottom: 30px;
+}
+.adduser h1{
+    color:crimson;
+}
+.adduser input{
+    width:350px;
+    height:35px;
+    border-radius: 30px;
+    margin-top:18px;
+    font-size: 18px;
+    padding-left: 18px;
+    padding-right: 18px;
+    border:3px solid #ff4757;
+    color:#ff4757;
+}
+.adduser button{
+    width: 130px;
+    height:38px;
+    border-radius: 10px;  
+    color:white;
+    background-color:#ff4757; 
+    border:none;
+    font-size:18px;
+    cursor: pointer;
+    margin-top:24px;
+}
+
+
+
+
+/* ---------cards section---------- */
+.cardsection{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.container{
+    width:250px;
+    height:480px;
+    border-radius: 20px;
+    padding:20px;
+    text-align: center;  
+    background-color: #ff4757;
+    color:white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+    margin-bottom:50px;
+}
+img{
+    width:250px;
+    height:200px;
+    border-radius:10%;
+}
+.userinfo1{
+    font-size:25px;
+}
+.userinfo2{
+    font-size:20px;
+}
+.container button{
+    width: 100px;
+    height:30px;
+    border-radius: 10px;  
+    color:#ff4757;
+    background-color:white; 
+    border:none;
+    font-size:18px;
+    font-weight:bold;
+    cursor: pointer;
+}
+.editform{
+    margin-top:10px;
+}
+.editform input{
+    width:200px;
+    margin-bottom: 10px;
+    height:25px;
+    border-radius:20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color:#ff4757;
+    border:none;
+}
+.editform{
+    display:none;
+}
+
+
+
+
+
