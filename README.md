@@ -13,6 +13,6 @@ NETLIFY LINKS:
 6. Profile pic api using fetch(): ---> https://sweet-beijinho-d66c77.netlify.app 
                                 : ---> https://venerable-douhua-5f57e2.netlify.app
                                 
-7. CRUD: https://tiny-sable-984092.netlify.app
+7. CRUD: https://strong-gelato-616274.netlify.app
 
 CSS 1:  https://september-1.netlify.app/
