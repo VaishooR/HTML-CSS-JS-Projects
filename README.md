@@ -15,4 +15,6 @@ NETLIFY LINKS:
                                 
 7. CRUD: https://strong-gelato-616274.netlify.app
 
+8. Pagination -cards: https://willowy-crepe-daf9a1.netlify.app
+
 CSS 1:  https://september-1.netlify.app/
