@@ -17,4 +17,6 @@ NETLIFY LINKS:
 
 8. Pagination -cards: https://willowy-crepe-daf9a1.netlify.app
 
+9. Profile card: https://profile-card-usingcss.netlify.app/
+
 CSS 1:  https://september-1.netlify.app/
